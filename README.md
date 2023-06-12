@@ -80,4 +80,4 @@ namespace Autovechicle
 ![output](op1.png)
 
 ## RESULT:
-Thus C# program to print some messages using hierarchical inheritance is written and executed sucessfully.
+Thus, C# program to print some messages using hierarchical inheritance is written and executed sucCessfully.
