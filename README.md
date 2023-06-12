@@ -3,16 +3,16 @@
 To write a C# program to print some messages using hierarchical inheritance.
 
 ## ALGORITHM:
-### Step 1:
+### STEP 1:
 Create a base class.
 
-### Step 2:
+### STEP 2:
 Create two child class.
 
-### Step 3:
+### STEP 3:
 Create a constructor in the base class and print a message.
 
-### Step 4:
+### STEP 4:
 Create a function in child class to print a message.
 
 ## PROGRAM:
